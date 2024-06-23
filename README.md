@@ -13,7 +13,7 @@ This data set contains a single file which compares various booking information 
 The analysis is done using Python and is done in following steps
 * *Data cleaning:* Ensuring the dataset is free from errors and inconsistencies. 
 * *EDA:* Gaining insights as per the requirement by summarizing the main characteristics of the data.
-* *Data vizualisation:* Creating graphical representations to illustrate the data trends and insights effectively.
+* *Data visualization:* Creating graphical representations to illustrate the data trends and insights effectively.
 * *Report:* Creating a comprehensive report which explains the clients /stakeholders about the findings and the insights.
 
 Find the detailed report in **'Hotel_booking_report.pdf'** file.
